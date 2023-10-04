@@ -3,6 +3,6 @@ gunicorn
 matplotlib
 tensorflow 
 pandas
-sklearn
+scikit-learn
 datetime
 numpy
